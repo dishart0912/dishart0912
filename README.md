@@ -18,29 +18,8 @@
 
 > I like problems that sit at the seam between disciplines — where a UI decision becomes a backend constraint, or a model's output has to survive contact with a real user. Most things I build start as an interface problem and end as a systems one.
 
-<table>
-<tr>
-<td>
-
 **🎓 Studying**
-Computer Engineering, TSEC Mumbai
-Final year · 9.66 CGPA
-
-</td>
-<td>
-
-**🔭 Building now**
-A token-optimization gateway for LLM APIs — my major capstone
-
-</td>
-<td>
-
-**🌱 Exploring**
-Multi-agent orchestration, prompt compression, retrieval
-
-</td>
-</tr>
-</table>
+Computer Engineering, TSEC Mumbai · Final year · 9.66 CGPA
 
 <br/>
 
