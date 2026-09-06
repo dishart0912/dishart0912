@@ -52,7 +52,11 @@ Computer Engineering student at **Thadomal Shahani Engineering College (9.66 CGP
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishart0912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishart0912&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dishart0912&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dishart0912&show_icons=true&theme=tokyonight&hide_border=true" alt="Disha's Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dishart0912&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
